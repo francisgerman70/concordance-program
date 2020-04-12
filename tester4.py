@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 #
-# UVic SENG 265, Spring 2020, Assignment #4
+# 
 #
 # This test-driver program invokes methods on the class to be
 # completed for the assignment.
